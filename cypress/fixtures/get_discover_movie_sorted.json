@@ -1,0 +1,81 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        3
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "As the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.  The destination of where Tanjiro and Demon Slayer Corps have fallen is the demons' stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.",
+      "popularity": 485.7636,
+      "poster_path": "/aFRDH3P7TX61FVGpaLhKr6QiOC1.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "video": false,
+      "vote_average": 6.991,
+      "vote_count": 58
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8J6UlIFcU7eZfq9iCLbgc8Auklg.jpg",
+      "genre_ids": [
+        2
+      ],
+      "id": 1087192,
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon",
+      "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+      "popularity": 568.0335,
+      "poster_path": "/q5pXRYTycaeW6dEgsCrd4mYPmxM.jpg",
+      "release_date": "2025-06-06",
+      "title": "How to Train Your Dragon",
+      "video": false,
+      "vote_average": 8.046,
+      "vote_count": 1431
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/shRevbFSTMZK0PheyYhZq135Kcr.jpg",
+      "genre_ids": [
+        6,
+        5
+      ],
+      "id": 986206,
+      "original_language": "en",
+      "original_title": "Night Carnage",
+      "overview": "A blogger who is also a werewolf meets a dashing playboy with a dark secret of his own. Starring Logan Andrews and Christian Howard.",
+      "popularity": 662.2823,
+      "poster_path": "/gep8Mk0ndUn8IXyXouPz5cvIvzj.jpg",
+      "release_date": "2025-07-29",
+      "title": "Night Carnage",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        1,
+        5
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+      "popularity": 2530.0668,
+      "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "release_date": "2025-07-29",
+      "title": "War of the Worlds",
+      "video": false,
+      "vote_average": 4.523,
+      "vote_count": 128
+    }
+  ],
+  "total_pages": 1,
+  "total_results": 4
+}
